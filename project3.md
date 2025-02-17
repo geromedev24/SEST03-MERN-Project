@@ -1,13 +1,16 @@
-Project 3 - Web-based Travel Itinerary Generator
+# Project 3 - Travel Blog Website
 
-# Features
+## Content
 
-- Create recommendations and suggestions based on the traveler's profile
+- About me
+- Contact me
+- Travel and Experiences
+- Recommendations
+- Support Me
 
-- Create recommendations based on traveler's connections profile
+## Features
 
-- Find establishments based from proximity, price, ratings, accessibility, operating hours, menu, activities, promo, etc.
-
-- Generate a smart route for planning based on the generated itinerary
-
-- Leave ratings, recommendations, and feedback about an establishment.
+- Responsive Web Design
+- Media Player
+- Videos
+- Suggestions and Wishlists

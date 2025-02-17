@@ -1,36 +1,14 @@
-# Project 1 - Learning Management System (LMS)
+# Project 1 - Professional Profile Landing Page
 
-## Roles and Administration
+## Content
 
-- Admin (manages site controls)
-- End-users
-    - Instructors
-    - Learners
-    - Education Advisors
-- Developers (site maintenance, contenct management and support)
+- My Profile
+- About me
+- My Projects
+- Contact Information
 
-## Content Management
+## Features
 
-- Intructors and Learners profile
-- Learning Curriculum/Subjects/Topics
-- Links to recorded videos, webinars
-- Virtual Practice room
-- Certification requests
-- Learning Roadmap
-
-## Features and Functionality
-
-- Profile builder
-- Schedule reminder
-- Resource Allocation
-- Virtual Meeting rooms
-
-## Security
-
-- 2-Factor Authentication
-- Roles and Permissions
-
-## Integrations
-
-- Zoom integration
-- CHED/CPD integrations
+- Responsive Web Design
+- Simple Animations
+- Light and Dark mode
